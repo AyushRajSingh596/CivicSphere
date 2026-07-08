@@ -1,0 +1,6 @@
+{
+  "name": "CivicSphere",
+  "description": "Transforming Indian Cities with AI-Powered Civic Action. Report issues, track resolutions, and build cleaner, smarter neighborhoods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
